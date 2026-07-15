@@ -1,0 +1,6 @@
+scipy
+discord.py
+keyboard
+pillow
+rich
+lxml
